@@ -1,5 +1,5 @@
 Feature: Create New Department API
-
+@CreateNewDept
   Scenario Outline: Verify User able to create new department
     Given User set <apiName> <region> webservice api
     When User sets Header Parameters
