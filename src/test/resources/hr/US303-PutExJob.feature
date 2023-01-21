@@ -1,5 +1,5 @@
 Feature: Update Existing Job API
-
+@PutExJob
   Scenario Outline: Verify User able to update an existing Job
     Given User set <apiName> <region> webservice api
     When User sets Header Parameters

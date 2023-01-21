@@ -9,8 +9,8 @@
     "jobId" : "AD_VP",
     "salary" : 10000,
     "comissionPct" : 0.1,
-    "managerId" : 123,
-    "departmentId" : 80
+    "managerId" : 114,
+    "departmentId" : 30
   }, {
     "employeeId" : 246,
     "firstName" : "Tom",
@@ -21,8 +21,8 @@
     "jobId" : "AD_VP",
     "salary" : 10000,
     "comissionPct" : 0.1,
-    "managerId" : 123,
-    "departmentId" : 80
+    "managerId" : 114,
+    "departmentId" : 30
   } ],
   "sit" : [ {
     "firstName" : "sit frameworkdata",
