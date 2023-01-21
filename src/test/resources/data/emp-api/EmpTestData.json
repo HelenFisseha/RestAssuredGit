@@ -1,13 +1,13 @@
 {
   "scrum" : [ {
-    "employeeId" : 250,
-    "firstName" : "Tom",
+    "employeeId" : 2659,
+    "firstName" : "Tommy",
     "lastName" : "Jones",
     "email" : "TomJones@singer.com",
     "phoneNumber" : "424-666-4444",
     "hireDate" : "03/07/2023",
     "jobId" : "AD_VP",
-    "salary" : 10000,
+    "salary" : 20000,
     "comissionPct" : 0.1,
     "managerId" : 114,
     "departmentId" : 30
