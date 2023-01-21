@@ -1,5 +1,5 @@
 Feature: Update Existing Employee API
-
+@empPut
   Scenario Outline: Verify User able to update existing employee
     Given User set <apiName> <region> webservice api
     When User sets Header Parameters
